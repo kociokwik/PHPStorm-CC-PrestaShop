@@ -1,4 +1,4 @@
-CAUTION: This hasn't been updated nor tested for PrestaShop v1.7 or v8. It is unchecked, if it contains all valid classes or not or if, because of technology changes (like namespaces), may not work as intended at all. It may, or it may not. Please test on your own.
+Fork updated for PrestaShop v1.7.8.8
 
 
 ## Code Completion for PrestaShop classes
